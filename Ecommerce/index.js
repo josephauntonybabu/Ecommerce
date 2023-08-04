@@ -125,3 +125,7 @@ function changeQuantity(key, quantity){
     }
     reloadCard();
 }
+
+function myFunction() {
+    alert("Your Order Is Placed");
+  }
